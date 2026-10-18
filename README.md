@@ -26,4 +26,4 @@ The XOR logic gate has 4 possibilities and the 4 are not linearly separable, whi
 
 ## 2000 Iterations
 
-![XOR 2000 Iteration Training](graphs/XOR_Network_Training_2000_Iteration.mp4)
+![XOR 2000 Iteration Training](graphs/XOR_Training_Right_2000.gif)
